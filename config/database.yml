@@ -67,5 +67,5 @@ test:
 production:
   <<: *default
   database: myapp_production
-  username: myapp
+  username: tjaeujpalfrcji
   password: password1
